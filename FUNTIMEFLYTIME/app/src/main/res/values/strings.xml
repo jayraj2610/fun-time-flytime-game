@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FUN TIME FLY TIME
+    </string>
+
+    <string name="play">Play</string>
+    <string name="high_score">High Score</string>
+    <string name="devloped_by_jayraj_kanzariya">devloped by jayraj kanzariya</string>
+    <string name="FUNTIME_FLYTIME">Fun Time Fly Time</string>
+    <string name="tap_here_to_shoot_bullets">Tap here to shoot bullets</string>
+    <string name="long_press_here_to_go_upside">long press here to go upside</string>
+</resources>
